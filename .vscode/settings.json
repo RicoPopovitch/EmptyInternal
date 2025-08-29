@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "thread": "cpp",
-        "*.rh": "cpp"
+        "*.rh": "cpp",
+        "charconv": "cpp"
     }
 }
